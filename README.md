@@ -19,11 +19,12 @@
   <div style="display: inline-flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/javier-rodríguez-jiménez/" target="_blank" style="text-decoration: none; border: none;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-           alt="LinkedIn de Javier Rodríguez" height="30" width="40" style="display: block;" />
+           width = '32px' align= 'center';" />
     </a>
-    <a href="mailto:javierrodriguezjimenez1@gmail.com" style="text-decoration: none; border: none;">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" height="auto" alt="Email" style="display: block;" />
-    </a>
+    <a href = 'https://www.github.com/javierrodriguezj'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </div>
+  
+  
+
 
 
