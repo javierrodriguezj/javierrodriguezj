@@ -15,7 +15,7 @@
 </p>
 
 
-  ### 🤝 Connect with me
+  ### 🤝 Connect with me!
   <div style="display: inline-flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/javier-rodríguez-jiménez/" target="_blank" style="text-decoration: none; border: none;">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
